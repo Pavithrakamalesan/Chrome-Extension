@@ -58,3 +58,7 @@ This Chrome extension helps users **monitor their browsing activity** by trackin
 ---
 
 ## 🎬 **OUTPUT**  
+
+![Image](https://github.com/user-attachments/assets/526ed50d-bfc4-4423-aec8-e23f389a89bb)
+
+![Image](https://github.com/user-attachments/assets/26e748fd-ccd9-4719-af27-572e8e27fa44)
